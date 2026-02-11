@@ -257,3 +257,9 @@ https://claude.ai/
 weathernews
 https://weathernews.jp/onebox/tenki/fukui/18382/
 
+github
+https://github.com/
+
+hub-site
+https://ikemenyuu0810-svg.github.io/home/
+
